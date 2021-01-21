@@ -4,12 +4,6 @@
         "widget": "False"
     },
     "user": {
-        "calibration": {
-            "208236A0424D": {
-                "Calibration_2": 0,
-                "calibration_1": 0
-            }
-        },
         "channels": {
             "0": "АЦП 0 К 0",
             "1": "АЦП 0 К 1",
@@ -43,9 +37,6 @@
             "7": "АЦП 0 К 7",
             "8": "АЦП 0 К 8",
             "9": "АЦП 0 К 9"
-        },
-        "default_voltage": 27000,
-        "overcurrent": 2000,
-        "overvoltage": 32
+        }
     }
 }

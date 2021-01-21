@@ -4,4 +4,5 @@ log
 dist
 tests
 poetry.lock
+oai_kpa_power/create_py_from.bat
 __pycache__

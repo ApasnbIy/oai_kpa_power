@@ -1,4 +1,4 @@
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 from .oai_kpa_power import *
 from .oia_kpa_power_data import *

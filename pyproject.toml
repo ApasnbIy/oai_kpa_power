@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "oai_kpa_power"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["crinitusfeles <crinitusfeles@gmail.com>"]
 

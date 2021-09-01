@@ -1,0 +1,4 @@
+[INFO] [(MainThread)] - oai_kpa_gui.oai_kpa_main_backend - [2021-09-01 17:05:17,222] [oai_kpa_main_backend.py.__init__():127] - Starting main window initialization
+[INFO] [(MainThread)] - oai_kpa_gui.oai_kpa_main_backend - [2021-09-01 17:05:17,238] [oai_kpa_main_backend.py.__init__():132] - Starting modules initialization
+[ERROR] [(MainThread)] - oai_kpa_gui.oai_kpa_main_backend - [2021-09-01 17:05:17,941] [oai_kpa_main_backend.py.__init__():170] - 'Device' object has no attribute 'default_cfg'
+[INFO] [(MainThread)] - oai_kpa_gui.oai_kpa_main_backend - [2021-09-01 17:05:17,973] [oai_kpa_main_backend.py.__init__():174] - Finish main window initialization

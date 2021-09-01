@@ -1,0 +1,28 @@
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,796] [OAI_Modbus.py.disconnect():102] - device not connected
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,805] [OAI_Modbus.py.get_connected_devices():112] - Detected the following serial ports:
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,805] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '208236A0424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,805] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '208236A0424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '208236A0424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '20693699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '20693699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '20693699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '206D3699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '206D3699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '206D3699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '206A3694424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '206A3694424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '206A3694424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '20663699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '20663699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '20663699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '205B3699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,807] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '205B3699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,808] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '205B3699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,808] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '20733699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,808] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '20733699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,808] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '20733699424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,808] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '2082369E424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,812] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '20713699424D', 'com: ', '2082369E424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,812] [OAI_Modbus.py.__get_overlap():131] - ['ID: ', '2057359A5748', 'com: ', '2082369E424D']
+[INFO] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,818] [OAI_Modbus.py.get_connected_devices():112] - Detected the following serial ports:
+[WARNING] [(MainThread)] - oai_modbus.OAI_Modbus - [2021-09-01 16:46:43,821] [OAI_Modbus.py.connect():79] - Devices not detected

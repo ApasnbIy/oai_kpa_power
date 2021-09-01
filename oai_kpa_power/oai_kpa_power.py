@@ -9,8 +9,12 @@ import os
 import re
 import json
 # модули ОАИ_КПА
-from . import oia_kpa_power_data
-from . import oai_kpa_power_widget_qt
+try:
+    from . import oia_kpa_power_data
+    from . import oai_kpa_power_widget_qt
+except Exception as ex:
+    import oia_kpa_power_data
+    import oai_kpa_power_widget_qt
 
 
 class ClientGUIWindow(QtWidgets.QWidget, oai_kpa_power_widget_qt.Ui_Form):
@@ -111,6 +115,9 @@ class ClientGUIWindow(QtWidgets.QWidget, oai_kpa_power_widget_qt.Ui_Form):
         self.module.set_constrain()
         pass
 
+    def start_measure(self):
+        if self.module.state == 1:
+            self.module.client.start_continuously_queue_reading(ai=[[2141, 2144]], ao=[], write=[])
 
     def connection_state_check(self):
         """

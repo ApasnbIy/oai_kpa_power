@@ -1,0 +1,19 @@
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,231] [connect_test.py.get_connected_devices():218] - 
+Detected the following serial ports:
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,232] [connect_test.py.get_connected_devices():220] - Port:COM8	ID#:=208236A0424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,232] [connect_test.py.get_connected_devices():220] - Port:COM6	ID#:=20693699424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,232] [connect_test.py.get_connected_devices():220] - Port:COM5	ID#:=206D3699424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,235] [connect_test.py.get_connected_devices():220] - Port:COM18	ID#:=
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,235] [connect_test.py.get_connected_devices():220] - Port:COM14	ID#:=206A3694424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,235] [connect_test.py.get_connected_devices():220] - Port:COM3	ID#:=20663699424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,236] [connect_test.py.get_connected_devices():220] - Port:COM7	ID#:=205B3699424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,236] [connect_test.py.get_connected_devices():220] - Port:COM15	ID#:=20733699424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,236] [connect_test.py.get_connected_devices():220] - Port:COM4	ID#:=2082369E424D
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,237] [connect_test.py.get_connected_data():204] - 
+self.stm_connect_data = ['COM4', '2082369E424D', [0, 0]]
+self.mku_connect_data =['COM6', '20693699424D', [0, 0]]
+self.mpp_connect_data =['COM5', '206D3699424D', [0, 0]]
+self.be_connect_data = ['COM8', '208236A0424D', [0, 0]]
+self.bdd_connect_data = ['COM7', '205B3699424D', [0, 0]]
+self.interface_connect_data = ['COM15', '20733699424D', [0, 0]]
+[INFO] [(MainThread)] - oai_kpa_gui.connect_test - [2021-09-01 17:05:17,237] [connect_test.py.get_connected_data():207] - self.bdk_num = 1

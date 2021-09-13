@@ -1,15 +1,27 @@
 [tool.poetry]
 name = "oai_kpa_power"
-version = "0.1.0"
-description = "first working release"
-authors = ["Alexey <alexey.koslov@yandex.ru>"]
-license = "free to use"
+version = "0.1.2"
+description = ""
+authors = ["crinitusfeles <crinitusfeles@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.9"
+PyQt5 = "^5.15"
+pyserial = "^3.5"
+oai_modbus = { git = "https://github.com/CrinitusFeles/OAI_Modbus.git" }
 
 [tool.poetry.dev-dependencies]
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.semantic_release]
+version_variable = [
+    "oai_kpa_power/__init__.py:__version__",
+    "pyproject.toml:version"
+]
+branch = "main"
+upload_to_pypi = false
+upload_to_release = true
+build_command = "pip install poetry && poetry build"
